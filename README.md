@@ -1,11 +1,22 @@
-### 목표
+## GOAL
 - 꾸준히 코테 문제 풀면서 기본기 녹슬지 않도록
 
-### 방법
+### SCORE
+- <span style="color: blue; font-weight: bold;">푼 문제의 수: 101</span>
+- <span style="color: green; font-weight: bold;">점수: 1,472</span>
+- <span style="color: red; font-weight: bold;">순위: 15,939</span>
+
+## METHOD
 - 주 3~4개의 문제 풀기
 - 하나의 문제를 두 개 이상의 방법으로 풀기
 
-### 결과
+### FLAG
+1. [ ]프로그래머스 [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 전부 풀기
+2. [ ]프로그래머스 2래벨, 정답율 50% 미만 문제 모두 풀기
+3. [ ]프로그래머스 3래벨, 정답율 50% 미만 문제 모두 풀기
+4. [ ]프로그래머스 4래벨, 정답율 50% 미만 문제 모두 풀기
+
+### LOG
 | Date(YYYY_MM_W) | 1st | 2nd | 3rd | 4th | Link |
 | -------------| ------- | ------- | ------- | ------- | ---------------- |
 | 2024_06_2nd | 240610 | - | - | - | [code](/2024_06_1st.ipynb) |
