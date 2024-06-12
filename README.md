@@ -11,7 +11,7 @@
 - 하나의 문제를 두 개 이상의 방법으로 풀기
 
 ### FLAG
-1. [ ]프로그래머스 [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 전부 풀기
+1. [x]프로그래머스 [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 전부 풀기
 2. [ ]프로그래머스 2래벨, 정답율 50% 미만 문제 모두 풀기
 3. [ ]프로그래머스 3래벨, 정답율 50% 미만 문제 모두 풀기
 4. [ ]프로그래머스 4래벨, 정답율 50% 미만 문제 모두 풀기
